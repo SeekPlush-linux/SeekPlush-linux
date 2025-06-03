@@ -1,5 +1,5 @@
-`seekplush-linux@github:~$ cd Desktop`\
-`seekplush-linux@github:~/Desktop$ cat README.md`
+`[seekplush-linux@github ~]$ cd Desktop`\
+`[seekplush-linux@github Desktop]$ cat README.md`
 
 # About Me
 just some furry programmer that uses arch linux (btw) and uh yea idk what else to say, i'll probably add more info here xd\
