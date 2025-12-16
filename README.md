@@ -6,5 +6,5 @@ Just some 15 y/o furry programmer that uses Arch Linux (btw) and codes random pr
 Also i know English and Russian :3
 
 ## My Socials
-[Discord profile](https://discord.com/users/1107715665730740224)\
+[![Discord profile](https://img.shields.io/badge/Discord-Profile-blue?logo=discord&logoColor=white)](https://discord.com/users/1107715665730740224)\
 (Discord is the only platform i'm usually on lol)
