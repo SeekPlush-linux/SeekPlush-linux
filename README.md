@@ -8,3 +8,5 @@ Also i know English and Russian :3
 ## My Socials
 [![Discord profile](https://img.shields.io/badge/Discord-Profile-blue?logo=discord&logoColor=white)](https://discord.com/users/1107715665730740224)\
 (Discord is the only platform i'm usually on lol)
+
+![](https://hit.yhype.me/github/profile?account_id=192367367)
