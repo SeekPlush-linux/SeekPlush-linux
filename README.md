@@ -2,7 +2,7 @@
 `[seekplush-linux@github Desktop]$ cat README.md`
 
 ## About Me
-Just some 15 y/o furry programmer that uses Arch Linux (btw) and codes random projects when bored\
+Just some 16 y/o furry programmer that uses Arch Linux (btw) and codes random projects when bored\
 Also i know English and Russian :3
 
 ## My Socials
